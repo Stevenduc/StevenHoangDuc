@@ -7,6 +7,8 @@
     font-family: century Gothic;
 } */
 
+}
+
 .title{
     margin-top: 100px;
     color: #fff;
@@ -28,12 +30,6 @@ form {
     padding: 20px 20px;
 }
 p {
-    background: rgba(221, 198, 198, 0.692);
+    background: rgba(240, 178, 178, 0.692);
 
-}
-body {
-    text text-align: center;
-}
-div {
-    background-color: rgb(102, 241, 241);
 }
