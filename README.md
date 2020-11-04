@@ -2,9 +2,6 @@ Responsive Portfolio
 
 My mobile-first application . 
 
-
-Directions
-
 First, I use the Bootstrap CSS Framework to create a mobile responsive portfolio. 
 
 * I then created the following files: `index.html`, `portfolio.html` and `contact.html`.
